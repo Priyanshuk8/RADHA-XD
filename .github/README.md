@@ -18,7 +18,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/fad8614e77b0c540fb320.jpg">
+  <img src="https://te.legra.ph/file/005a6dff4d0bc7237b739.jpg">
 </p>
 
 ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝄟❣️❥𝙎𝘼𝙉𝘼❣️𝙈𝘼𝙉𝘼𝙂𝙀𝙈𝙀𝙉𝙏𝄟⃟🥀](https://t.me/INCRICIBLE_MUSIC_BOT)
@@ -34,7 +34,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/mrtosumemon/SANA-MANAGEMENT2.0"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/mrtosumemon/SANA-MANAGEMENT2.1"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## 𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐕𝐢𝐝𝐞𝐨 𝐎𝐧 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📺
 - [![YouTube Video Views](https://img.shields.io/youtube/views/MF1nsTAN_Ns?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/MF1nsTAN_Ns)
