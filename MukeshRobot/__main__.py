@@ -408,8 +408,8 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                             text="📍𝐎𝐖𝐍𝐄𝐑📍", url=f"https://t.me/YOUR_GODFATHER_XD"
                         ),
                         InlineKeyboardButton(
-                            text="🎄𝐑𝐄𝐏𝐎🎄", 
-                            url="https://github.com/mrtosumemon/Sana2Music",
+                            text="🎄𝐒𝐔𝐏𝐏𝐎𝐑𝐓🎄", 
+                            url="https://t.me/SANA_SUPPORTS",
                         ),
                     ],
                     [
