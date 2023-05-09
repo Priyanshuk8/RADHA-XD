@@ -340,7 +340,7 @@ def info(update: Update, context: CallbackContext):
                                 "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/YOUR_GODFATHER_XD"
                             ),
                             InlineKeyboardButton(
-                                "Dɪsᴀsᴛᴇʀ", url="https://t.me/aBoUtPrInCeXd/4"
+                                "Dɪsᴀsᴛᴇʀ", url="https://t.me/ABOUT_GODFATHER"
                             ),
                         ],
                         [
@@ -366,7 +366,7 @@ def info(update: Update, context: CallbackContext):
                                 "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/YOUR_GODFATHER_XD"
                             ),
                             InlineKeyboardButton(
-                                "ᴅɪsᴀsᴛᴇʀ", url="https://t.me/ABOUT_GODFATHER/4"
+                                "ᴅɪsᴀsᴛᴇʀ", url="https://t.me/ABOUT_GODFATHER"
                             ),
                         ],
                         [
