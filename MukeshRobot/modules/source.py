@@ -24,7 +24,7 @@ async def repo(client, message):
   
 ╚═════ஜ۩۞۩ஜ════╝
 
-**[𝗦𝗔𝗡𝗔 𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡](t.me/{dispatcher.bot.username}) sᴏᴜʀᴄᴇ ɪs ɴᴏᴡ ᴩᴜʙʟɪᴄ ᴀɴᴅ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ.**
+**[𝗦𝗔𝗡𝗔 𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧](t.me/{dispatcher.bot.username}) sᴏᴜʀᴄᴇ ɪs ɴᴏᴡ ᴩᴜʙʟɪᴄ ᴀɴᴅ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ.**
 """,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -33,8 +33,8 @@ async def repo(client, message):
                         "•📍ᴏᴡɴᴇʀ📍",f"tg://user?id={OWNER_ID}"
                     ),
                     InlineKeyboardButton(
-                        "📍ʀᴇᴘᴏ📍",
-                        url="https://github.com/mrtosumemon/Sana2Music",
+                        "📍ᴄʜᴀᴛ_ɢʀᴏᴜᴘ📍",
+                        url="https://t.me/INCRICIBLE",
                     ),
                 ]
             ]
