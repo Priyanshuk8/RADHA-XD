@@ -14,14 +14,14 @@
 
 
 <h2 align="center">
-    𝄟🌹𝙎𝘼𝙉𝘼 𝙈𝘼𝙉𝘼𝙂𝙀𝙈𝙀𝙉𝙏🌹​​​​​𝄟​​​​​
+    𝄟🌹𝙂𝘼𝙔𝙐 𝙈𝘼𝙉𝘼𝙂𝙀𝙈𝙀𝙉𝙏🌹​​​​​𝄟​​​​​
 </h2>
 
 <p align="center">
   <img src="https://te.legra.ph/file/005a6dff4d0bc7237b739.jpg">
 </p>
 
-ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝄟❣️❥𝙎𝘼𝙉𝘼❣️𝙈𝘼𝙉𝘼𝙂𝙀𝙈𝙀𝙉𝙏𝄟⃟🥀](https://t.me/INCRICIBLE_MUSIC_BOT)
+ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝄟❣️❥𝙂𝘼𝙔𝙐❣️𝙈𝘼𝙉𝘼𝙂𝙀𝙈𝙀𝙉𝙏𝄟⃟🥀](https://t.me/INCRICIBLE_MUSIC_BOT)
 ━━━━━━━━━━━━━━━━━━━━
 
 
