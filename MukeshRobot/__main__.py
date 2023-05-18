@@ -237,11 +237,11 @@ def start(update: Update, context: CallbackContext):
                 PM_START_TEX.format(usr.first_name), parse_mode=ParseMode.MARKDOWN
             )
             time.sleep(0.4)
-            lol.edit_text("𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠.")
+            lol.edit_text("𝑺𝒕𝒂𝒓𝒕𝒊𝒏𝒈.")
             time.sleep(0.4)
-            lol.edit_text("𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠..")
+            lol.edit_text("𝑴𝒆𝒓𝒊 𝑱𝒂𝒂𝒏..")
             time.sleep(0.4)
-            lol.edit_text("𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠... ")
+            lol.edit_text("𝑰 𝒍𝒐𝒗𝒆 𝒖𝒉... ")
             time.sleep(0.4)
             lol.delete()
             
