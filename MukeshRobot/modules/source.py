@@ -9,7 +9,7 @@ from telethon import __version__ as s
 from MukeshRobot import OWNER_ID, dispatcher
 from MukeshRobot import pbot as client
 
-Mukesh = "https://graph.org/file/ede6373450cdd0eb4db26.jpg"
+Mukesh = "https://te.legra.ph/file/ed407867ab0908b7e20ea.jpg"
 
 
 @client.on_message(filters.command(["repo", "source"]))
@@ -24,7 +24,7 @@ async def repo(client, message):
   
 ╚═════ஜ۩۞۩ஜ════╝
 
-**[𝗦𝗔𝗡𝗔 𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧](t.me/{dispatcher.bot.username}) sᴏᴜʀᴄᴇ ɪs ɴᴏᴡ ᴩᴜʙʟɪᴄ ᴀɴᴅ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ.**
+**[𝐆𝐀𝐘𝐔 𝐌𝐀𝐍𝐀𝐆𝐄𝐌𝐄𝐍𝐓](t.me/{dispatcher.bot.username}) sᴏᴜʀᴄᴇ ɪs ɴᴏᴡ ᴩᴜʙʟɪᴄ ᴀɴᴅ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ.**
 """,
         reply_markup=InlineKeyboardMarkup(
             [
