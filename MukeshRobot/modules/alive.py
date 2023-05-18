@@ -30,13 +30,13 @@ Mukesh = [
     ],
 ]
 
-lol = "https://graph.org/file/ede6373450cdd0eb4db26.jpg"
+lol = "https://te.legra.ph/file/ed407867ab0908b7e20ea.jpg"
 
 
 @pbot.on_message(filters.command("alive"))
 async def restart(client, m: Message):
     await m.delete()
-    accha = await m.reply("⚡")
+    accha = await m.reply("❣️")
     await asyncio.sleep(0.5)
     await accha.edit("ᴅɪɴɢ ᴅᴏɴɢ ꨄ︎ ᴀʟɪᴠɪɴɢ..")
     await asyncio.sleep(0.5)
@@ -54,7 +54,7 @@ async def restart(client, m: Message):
     await asyncio.sleep(0.8)
     await m.reply_photo(
         lol,
-        caption=f"""**🌷ʜᴇʏ, ɪ ᴀᴍ 『[𝗦𝗔𝗡𝗔 𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧](f"t.me/{BOT_USERNAME}")』🎄**
+        caption=f"""**🌷ʜᴇʏ, ɪ ᴀᴍ 『[𝙂𝘼𝙔𝙐 𝙈𝘼𝙉𝘼𝙂𝙀𝙈𝙀𝙉𝙏❣️](f"t.me/{BOT_USERNAME}")』🎄**
    ╔═════ஜ۩۞۩ஜ════╗
 
    ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗚𝗢𝗗𝗙𝗔𝗧𝗛𝗘𝗥](https://t.me/YOUR_GODFATHER_XD)♨️
