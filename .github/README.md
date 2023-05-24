@@ -2,7 +2,7 @@
 ### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
 
 <!--
-**mrtosumemon/SANA-MANAGEMENT2.0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mrtosumemon/RADHA-MANAGEMENT2.0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
@@ -14,14 +14,14 @@
 
 
 <h2 align="center">
-    𝄟🌹𝙂𝘼𝙔𝙐 𝙈𝘼𝙉𝘼𝙂𝙀𝙈𝙀𝙉𝙏🌹​​​​​𝄟​​​​​
+    𝄟🌹RADHA 𝙈𝘼𝙉𝘼𝙂𝙀𝙈𝙀𝙉𝙏🌹​​​​​𝄟​​​​​
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/005a6dff4d0bc7237b739.jpg">
+  <img src="https://te.legra.ph/file/3eb9355f3ea80b87924b2.jpg">
 </p>
 
-ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝄟❣️❥𝙂𝘼𝙔𝙐❣️𝙈𝘼𝙉𝘼𝙂𝙀𝙈𝙀𝙉𝙏𝄟⃟🥀](https://t.me/INCRICIBLE_MUSIC_BOT)
+ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝄟❣️❥RADHA❣️𝙈𝘼𝙉𝘼𝙂𝙀𝙈𝙀𝙉𝙏𝄟⃟🥀](http://t.me/Radhax4_Robot)
 ━━━━━━━━━━━━━━━━━━━━
 
 
@@ -46,10 +46,10 @@
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/INCRICIBLE"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/best_friend_forever_10"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/ABOUT_GODFATHER"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/best_friend_forever_10"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
